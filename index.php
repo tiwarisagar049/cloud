@@ -7,4 +7,4 @@ welcome to lw cloud
 print `ifconfig`;
 
 ?>
-</pre>comm
+</pre>
